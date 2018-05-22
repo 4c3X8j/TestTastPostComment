@@ -18,7 +18,7 @@ We're providing a basic structure for you, so you can focus more on what actuall
   * Add instructions on how to setup project, run tests and what could be improved in further steps
   
   
-What's already done
+What's already done.
 -------------------
 
   * Basic symfony (3.4) structure
